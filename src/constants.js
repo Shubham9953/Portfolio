@@ -11,7 +11,7 @@ import Materialuilogo from './assets/tech_logo/Materialuilogo.png';
 import Vscodelogo from './assets/tech_logo/Vscodelogo.png';
 import Vercellogo from './assets/tech_logo/Vercellogo.png';
 import Gitlogo from './assets/tech_logo/Gitlogo.png';
-import Githublogo from './assets/tech_logo/Githublogo.png';
+import Githublogo1 from './assets/tech_logo/Githublogo1.png';
 import Figmalogo from './assets/tech_logo/figmalogo.png';
 import Mysqllogo from './assets/tech_logo/Mysqllogo.png';
 import Nextjslogo from './assets/tech_logo/Nextjslogo.png';
@@ -70,7 +70,7 @@ export const SkillsInfo = [
         title: 'Tools',
         skills: [
             { name: 'Git', logo: Gitlogo },
-            { name: 'GitHub', logo: Githublogo },
+            { name: 'GitHub', logo: Githublogo1 },
             { name: 'VS Code', logo: Vscodelogo },
             { name: 'Postman', logo: Postmanlogo },
             { name: 'Vercel', logo: Vercellogo },
