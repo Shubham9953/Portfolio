@@ -11,7 +11,7 @@ import Materialuilogo from './assets/tech_logo/Materialuilogo.png';
 import Vscodelogo from './assets/tech_logo/Vscodelogo.png';
 import Vercellogo from './assets/tech_logo/Vercellogo.png';
 import Gitlogo from './assets/tech_logo/Gitlogo.png';
-import Githublogo from './assets/tech_logo/githublogo.png';
+import Githublogo from './assets/tech_logo/Githublogo.png';
 import Figmalogo from './assets/tech_logo/figmalogo.png';
 import Mysqllogo from './assets/tech_logo/Mysqllogo.png';
 import Nextjslogo from './assets/tech_logo/Nextjslogo.png';
