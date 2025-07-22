@@ -12,7 +12,7 @@ import Vscodelogo from './assets/tech_logo/Vscodelogo.png';
 import Vercellogo from './assets/tech_logo/Vercellogo.png';
 import Gitlogo from './assets/tech_logo/Gitlogo.png';
 import Githublogo1 from './assets/tech_logo/Githublogo1.png';
-import Figmalogo from './assets/tech_logo/figmalogo.png';
+import Figmalogo from './assets/tech_logo/Figmalogo.png';
 import Mysqllogo from './assets/tech_logo/Mysqllogo.png';
 import Nextjslogo from './assets/tech_logo/Nextjslogo.png';
 import Tailwindlogo from './assets/tech_logo/Tailwindlogo.png';
