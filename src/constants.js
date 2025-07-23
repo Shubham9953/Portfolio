@@ -26,6 +26,7 @@ import Postgresqllogo from './assets/tech_logo/Postgresqllogo.webp';
 //Projects logo
 
 import Netflixlogo from './assets/project logo/Netflixlogo.png'
+import weatherlogo from './assets/project logo/weatherlogo.png'
 
 
 // Education Section Logo's
@@ -89,18 +90,18 @@ export const SkillsInfo = [
       title: "Netflix-clone",
       description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
       image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
+      tags: ["HTML", "CSS" ],
       github: "https://github.com/Shubham9953/netflix-clone",
       webapp: "https://netflix-clone-henna-rho.vercel.app/",
     },
     {
       id: 1,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
+      title: "Live-Weather-App",
+      description: "I created a live weather app using React.js, Tailwind CSS, and Weather API. It displays real-time weather data for any city with a clean, responsive, and user-friendly interface.",
+      image: weatherlogo,
+      tags: ["Reactjs", "TailwindCSS","Weather API"],
+      github: "https://github.com/Shubham9953/Live_Weather_app",
+      webapp: "https://live-weather-app-lovat.vercel.app/",
     },
     {
       id: 2,
