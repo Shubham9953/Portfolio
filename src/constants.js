@@ -27,6 +27,8 @@ import Postgresqllogo from './assets/tech_logo/Postgresqllogo.webp';
 
 import Netflixlogo from './assets/project logo/Netflixlogo.png'
 import weatherlogo from './assets/project logo/weatherlogo.png'
+import TicTaclogo from './assets/project logo/TicTaclogo.png'
+import Calculatorlogo from './assets/project logo/Calculatorlogo.png'
 
 
 // Education Section Logo's
@@ -87,12 +89,12 @@ export const SkillsInfo = [
  export const projects = [
     {
       id: 0,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS" ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
+      title: "Live-Calculator",
+      description: "I built a fully responsive and functional live calculator using ReactJS and TailwindCSS, with smooth performance and modern UI design. The calculator supports basic arithmetic operations and is optimized for both desktop and mobile devices, providing a seamless user experience.",
+      image: Calculatorlogo,
+      tags: ["ReactJS", "TailwindCSS" ],
+      github: "https://github.com/Shubham9953/Calculator",
+      webapp: "https://calculator-one-pearl-21.vercel.app/",
     },
     {
       id: 1,
@@ -105,12 +107,12 @@ export const SkillsInfo = [
     },
     {
       id: 2,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
+      title: "Tic-Tac-Toe Game",
+      description: "I created a fully responsive Tic Tac Toe game using ReactJS and TailwindCSS, offering smooth gameplay and clean modern design. The game features a user-friendly interface, allowing players to enjoy classic Tic Tac Toe on both desktop and mobile devices.",
+      image: TicTaclogo,
+      tags: ["ReactJS", "TailwindCSS", ],
+      github: "https://github.com/Shubham9953/Tic-TacoToe",
+      webapp: "https://tic-taco-toe.vercel.app/",
     },
     {
       id: 3,
@@ -119,53 +121,53 @@ export const SkillsInfo = [
       image: Netflixlogo,
       tags: ["HTML", "CSS", ],
       github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
+      webapp: "https://netflix-clone-brown-kappa-84.vercel.app/",
     },
-    {
-      id: 4,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    },
-    {
-      id: 5,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    },
-    {
-      id: 6,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    },
-    {
-      id: 7,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    },
-    {
-      id: 8,
-      title: "Netflix-clone",
-      description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-      image: Netflixlogo,
-      tags: ["HTML", "CSS", ],
-      github: "https://github.com/Shubham9953/netflix-clone",
-      webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    },
+    // {
+    //   id: 4,
+    //   title: "Netflix-clone",
+    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
+    //   image: Netflixlogo,
+    //   tags: ["HTML", "CSS", ],
+    //   github: "https://github.com/Shubham9953/netflix-clone",
+    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
+    // },
+    // {
+    //   id: 5,
+    //   title: "Netflix-clone",
+    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
+    //   image: Netflixlogo,
+    //   tags: ["HTML", "CSS", ],
+    //   github: "https://github.com/Shubham9953/netflix-clone",
+    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
+    // },
+    // {
+    //   id: 6,
+    //   title: "Netflix-clone",
+    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
+    //   image: Netflixlogo,
+    //   tags: ["HTML", "CSS", ],
+    //   github: "https://github.com/Shubham9953/netflix-clone",
+    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
+    // },
+    // {
+    //   id: 7,
+    //   title: "Netflix-clone",
+    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
+    //   image: Netflixlogo,
+    //   tags: ["HTML", "CSS", ],
+    //   github: "https://github.com/Shubham9953/netflix-clone",
+    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
+    // },
+    // {
+    //   id: 8,
+    //   title: "Netflix-clone",
+    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
+    //   image: Netflixlogo,
+    //   tags: ["HTML", "CSS", ],
+    //   github: "https://github.com/Shubham9953/netflix-clone",
+    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
+    // },
   ];
 
 
