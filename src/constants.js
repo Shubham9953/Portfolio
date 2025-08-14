@@ -29,6 +29,7 @@ import Netflixlogo from './assets/project logo/Netflixlogo.png'
 import weatherlogo from './assets/project logo/weatherlogo.png'
 import TicTaclogo from './assets/project logo/TicTaclogo.png'
 import Calculatorlogo from './assets/project logo/Calculatorlogo.png'
+import Disneylogo from './assets/project logo/Disneylogo.png'
 
 
 // Education Section Logo's
@@ -92,7 +93,7 @@ export const SkillsInfo = [
       title: "Live-Calculator",
       description: "I built a fully responsive and functional live calculator using ReactJS and TailwindCSS, with smooth performance and modern UI design. The calculator supports basic arithmetic operations and is optimized for both desktop and mobile devices, providing a seamless user experience.",
       image: Calculatorlogo,
-      tags: ["ReactJS", "TailwindCSS" ],
+      tags: ["ReactJS", "TailwindCSS","Vite" ],
       github: "https://github.com/Shubham9953/Calculator",
       webapp: "https://calculator-one-pearl-21.vercel.app/",
     },
@@ -101,7 +102,7 @@ export const SkillsInfo = [
       title: "Live-Weather-App",
       description: "I created a live weather app using React.js, Tailwind CSS, and Weather API. It displays real-time weather data for any city with a clean, responsive, and user-friendly interface.",
       image: weatherlogo,
-      tags: ["Reactjs", "TailwindCSS","Weather API"],
+      tags: ["Reactjs", "TailwindCSS","Weather API","Vite","Axios"],
       github: "https://github.com/Shubham9953/Live_Weather_app",
       webapp: "https://live-weather-app-lovat.vercel.app/",
     },
@@ -110,7 +111,7 @@ export const SkillsInfo = [
       title: "Tic-Tac-Toe Game",
       description: "I created a fully responsive Tic Tac Toe game using ReactJS and TailwindCSS, offering smooth gameplay and clean modern design. The game features a user-friendly interface, allowing players to enjoy classic Tic Tac Toe on both desktop and mobile devices.",
       image: TicTaclogo,
-      tags: ["ReactJS", "TailwindCSS", ],
+      tags: ["ReactJS", "TailwindCSS","Vite" ],
       github: "https://github.com/Shubham9953/Tic-TacoToe",
       webapp: "https://tic-taco-toe.vercel.app/",
     },
@@ -123,15 +124,15 @@ export const SkillsInfo = [
       github: "https://github.com/Shubham9953/netflix-clone",
       webapp: "https://netflix-clone-brown-kappa-84.vercel.app/",
     },
-    // {
-    //   id: 4,
-    //   title: "Netflix-clone",
-    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-    //   image: Netflixlogo,
-    //   tags: ["HTML", "CSS", ],
-    //   github: "https://github.com/Shubham9953/netflix-clone",
-    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    // },
+    {
+      id: 4,
+      title: "Disney-Clone",
+      description: "I created a fully responsive Disney+ clone using Vite, React.js, Tailwind CSS, and Axios, powered by TheMovieDB API. It features smooth navigation, dynamic movie/show listings, and category-wise browsing, delivering a seamless streaming-like experience across all devices and screen sizes.",
+      image: Disneylogo,
+      tags: ["ReactJS", "TailwindCSS","Vite","Axios","TMDB API" ],
+      github: "https://github.com/Shubham9953/Disney-clone",
+      webapp: "https://disney-clone-shubham.vercel.app/",
+    },
     // {
     //   id: 5,
     //   title: "Netflix-clone",
