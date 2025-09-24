@@ -30,6 +30,11 @@ import weatherlogo from './assets/project logo/weatherlogo.png'
 import TicTaclogo from './assets/project logo/TicTaclogo.png'
 import Calculatorlogo from './assets/project logo/Calculatorlogo.png'
 import Disneylogo from './assets/project logo/Disneylogo.png'
+import ImageGallery from './assets/project logo/ImageGallerylogo.png'
+import TodoListlogo from './assets/project logo/TodoListlogo.png'
+import MusicPlayerlogo from './assets/project logo/MusicPlayerlogo.png'
+import AgeCalculatorlogo from './assets/project logo/AgeCalculatorlogo.png'
+import DigitalCalculatorlogo from './assets/project logo/DigitalCalculatorlogo.png'
 
 
 // Education Section Logo's
@@ -133,42 +138,51 @@ export const SkillsInfo = [
       github: "https://github.com/Shubham9953/Disney-clone",
       webapp: "https://disney-clone-shubham.vercel.app/",
     },
-    // {
-    //   id: 5,
-    //   title: "Netflix-clone",
-    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-    //   image: Netflixlogo,
-    //   tags: ["HTML", "CSS", ],
-    //   github: "https://github.com/Shubham9953/netflix-clone",
-    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    // },
-    // {
-    //   id: 6,
-    //   title: "Netflix-clone",
-    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-    //   image: Netflixlogo,
-    //   tags: ["HTML", "CSS", ],
-    //   github: "https://github.com/Shubham9953/netflix-clone",
-    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    // },
-    // {
-    //   id: 7,
-    //   title: "Netflix-clone",
-    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-    //   image: Netflixlogo,
-    //   tags: ["HTML", "CSS", ],
-    //   github: "https://github.com/Shubham9953/netflix-clone",
-    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    // },
-    // {
-    //   id: 8,
-    //   title: "Netflix-clone",
-    //   description: "I created a responsive Netflix clone using only HTML and CSS. The design replicates the official Netflix homepage, including navigation, hero section, and content layout. It works seamlessly on both desktop and mobile devices using media queries, showcasing my front-end skills without JavaScript or external frameworks.",
-    //   image: Netflixlogo,
-    //   tags: ["HTML", "CSS", ],
-    //   github: "https://github.com/Shubham9953/netflix-clone",
-    //   webapp: "https://netflix-clone-henna-rho.vercel.app/",
-    // },
+    {
+      id: 5,
+      title: "Image-Gallery",
+      description: "I developed a fully responsive image gallery using HTML, CSS, and JavaScript. The gallery adapts seamlessly to all screen sizes, offering smooth transitions, interactive hover effects, and organized layouts. It enhances user experience by showcasing images elegantly while maintaining responsiveness, functionality, and a visually appealing design across devices.",
+      image: ImageGallery,
+      tags: ["HTML", "CSS","javaScript" ],
+      github: "https://github.com/Shubham9953/Image-Gallery",
+      webapp: "https://shubham-image-gallery.vercel.app/",
+    },
+    {
+      id: 6,
+      title: "Todo-List",
+      description: "I built a fully functional To-Do List web app using HTML, CSS, and JavaScript. It allows users to create, update, and delete tasks with seamless data storage using localStorage, ensuring tasks persist even after refresh. A clean, responsive design enhances usability and provides a smooth user experience.",
+      image: TodoListlogo,
+      tags: ["HTML", "CSS","JAVASCRIPT" ],
+      github: "https://github.com/Shubham9953/Todo-List-JS",
+      webapp: "https://shubham-todo-list-js-sigma.vercel.app/",
+    },
+    {
+      id: 7,
+      title: "Music Player",
+      description: "I built a fully functional music player using HTML, CSS, and JavaScript. It features a clean, responsive design, play/pause controls, track navigation, and dynamic song updates. Users can enjoy seamless audio playback directly in the browser, making it a lightweight, interactive, and visually appealing web application.",
+      image: MusicPlayerlogo,
+      tags: ["HTML", "CSS","JAVASCRIPT" ],
+      github: "https://github.com/Shubham9953/Music-Player",
+      webapp: "https://music-player-shubham.vercel.app/",
+    },
+    {
+      id: 8,
+      title: "Age Calculator",
+      description: "I developed an Age Calculator using HTML, CSS, and JavaScript that calculates a person’s exact age based on their date of birth. The tool provides accurate results in years, months, and days, featuring a clean, responsive design for a seamless and user-friendly web experience.",
+      image: AgeCalculatorlogo,
+      tags: ["HTML", "CSS","JAVASCRIPT" ],
+      github: "https://github.com/Shubham9953/Age-Calculator",
+      webapp: "https://age-calculator-shubham.vercel.app/",
+    },
+    {
+      id: 9,
+      title: "Digital Calculator",
+      description: "I created a fully functional Calculator using HTML, CSS, and JavaScript. It supports basic arithmetic operations with a clean, intuitive interface and responsive design. The app provides smooth, real-time calculations, enhancing user experience while demonstrating practical use of web development skills in building interactive and visually appealing applications.",
+      image: DigitalCalculatorlogo,
+      tags: ["HTML", "CSS","JAVASCRIPT" ],
+      github: "https://github.com/Shubham9953/Calculator-Js",
+      webapp: "https://shubham-calculator.vercel.app/",
+    },
   ];
 
 
